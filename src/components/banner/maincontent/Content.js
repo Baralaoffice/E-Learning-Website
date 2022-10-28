@@ -9,7 +9,6 @@ const useStyles = makeStyles({
     mainsec: {
         display: 'flex',
         marginTop: '65px'
-
     },
     main: {
         paddingtop: '65px'
@@ -18,7 +17,6 @@ const useStyles = makeStyles({
 
 function Content() {
     const classes = useStyles();
-
     return (
         <>
             <Box className={classes.mainsec}>

@@ -6,7 +6,6 @@ function Right() {
         <>
             <Box style={{width:'50%'}}>
                 <img style={{display:'block',width:'100%'}} src={'./img/Group 232.png'} alt="group" />
-                
             </Box>
         </>
     )
