@@ -4,6 +4,7 @@ import About from '../components/About/About'
 import Circle from '../components/banner/Circle'
 import Content from '../components/banner/maincontent/Content'
 import Carts from '../components/Cartcomponents/Carts'
+import Courses from '../components/Courses/Courses'
 
 
 function Home() {
@@ -13,7 +14,7 @@ function Home() {
       <Circle />
       <About/>
       <Carts/>
-        
+      <Courses/>
     </Container>
   )
 }
